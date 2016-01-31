@@ -24,4 +24,4 @@ Feel free to access [my portfolio](http:// stigahlid.com)
 2. Precision
 3. Performance
 
-This iis what ruby code would look like `puts 'Hello world'´
+This iis what ruby code would look like `puts 'Hello world'
